@@ -1,4 +1,4 @@
-Convert - Conversor de Moedas para Reais
+Convert - Conversor de Moedas para Reais:
 Este é um projeto de conversor de moedas que permite calcular o valor em reais (BRL) de diferentes moedas, incluindo dólar americano (USD), euro (EUR), libra esterlina (GBP) e bitcoin (BTC), com base em valores de câmbio pré-definidos.
 
 Recursos
